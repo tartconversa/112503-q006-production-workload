@@ -1,0 +1,4 @@
+shot,variant,previous_shot,previous_variant,shared_resource
+S2,b,S1,b,voiceA
+S3,a,S2,b,voiceA
+S4,a,S3,a,voiceA

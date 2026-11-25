@@ -1,0 +1,4 @@
+revision,project,shot,from_variant,to_variant,requested_on,start_second,end_second
+U1,P1,S1,a,b,2026-07-04,15,24
+U2,P1,S2,a,b,2026-07-05,24,45
+U3,P1,S2,b,c,2026-07-16,27,35

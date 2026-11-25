@@ -1,0 +1,8 @@
+log,shot,variant,block,date,activity,hours,cost
+W1,S1,a,B1,2026-06-27,shoot,7,2000
+W2,S1,b,B1,2026-07-05,manual_cleanup,3,600
+W3,S2,a,B1,2026-07-03,synthesis,2,100
+W4,S2,b,B2,2026-07-10,rerecord,5,1800
+W5,S5,a,B0,2026-05-02,mixed,8,2100
+W6,S6,a,B0,2026-05-03,synthesis,3,470
+W7,S7,a,B0,2026-05-04,shoot,8,2400

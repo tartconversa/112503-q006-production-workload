@@ -1,0 +1,8 @@
+event,shot,variant,date,kind,review_until,hours
+E1,S1,a,2026-07-02,accepted,2026-06-29,7
+E2,S1,b,2026-07-13,accepted,2026-07-10,6
+E3,S2,a,2026-07-04,returned,2026-07-03,2
+E4,S2,b,2026-07-11,delivered,2026-07-15,11
+E5,S5,a,2026-05-03,accepted,2026-05-02,9
+E6,S6,a,2026-05-03,delivered,2026-05-05,3
+E7,S7,a,2026-05-05,accepted,2026-05-05,8

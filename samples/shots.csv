@@ -1,0 +1,11 @@
+shot,project,variant,parent,segment_start,segment_end,method,final_state
+S1,P1,a,,0,24,practical,accepted
+S1,P1,b,a,0,24,mixed,accepted
+S2,P1,a,,24,45,synthesis,rejected
+S2,P1,b,a,24,45,mixed,delivered
+S3,P2,a,,0,18,practical,delivered
+S4,P3,a,,0,19,mixed,offered
+S5,P0,a,,0,26,mixed,accepted
+S6,P0,a,,26,44,synthesis,open
+S7,P0,a,,44,60,practical,accepted
+S2,P1,c,b,24,45,mixed,proposed

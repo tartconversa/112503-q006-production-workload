@@ -1,0 +1,5 @@
+project,deadline,requires,basis,committed
+P0,2026-05-07,S5|S6|S7,K0,yes
+P1,2026-07-15,S1|S2,K1,yes
+P2,2026-07-16,S3,K2,yes
+P3,2026-07-19,S4,K3,no
